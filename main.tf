@@ -3,6 +3,7 @@ terraform {
     vsphere = {
       source = "hashicorp/vsphere"
     }
+  }
 }
 
 provider "vsphere" {
