@@ -1,3 +1,6 @@
+# CLEAN UP
+1. Destroy and Delete your TFC Workspace
+2. Delete your Intersight TFC Target and Agents
 # SCRIPT
 
 1. show the code
@@ -12,10 +15,17 @@ terraform.auto.tfvars -> all non sensitive variables
 Remote Agent amslab
 Auto Apply
 ```
+4. Go to Intersight and Setup TFC Cloud Agent
+
+
+5. 
+
 
 4. configure - Variables
 ```
 vsphere_password = Demo123!
+vsphere_user = "baelen@vsphere.local"
+vsphere_server = "10.61.124.6"
 ```
 
 5. Queue plan manually

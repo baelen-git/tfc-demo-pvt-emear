@@ -1,5 +1,3 @@
-vsphere_user = "baelen@vsphere.local"
-vsphere_server = "10.61.124.6"
 vsphere_datacenter = "Amsterdam"
 vsphere_datastore = "HX-ACI" 
 vsphere_resource_pool = "HX-ACI/Resources"
