@@ -17,11 +17,7 @@ Auto Apply
 ```
 4. Go to Intersight and Setup TFC Cloud Agent
 
-
-5. 
-
-
-4. configure - Variables
+5. configure - Variables
 ```
 vsphere_password = Demo123!
 vsphere_user = "baelen@vsphere.local"
@@ -38,4 +34,8 @@ Application Team -> Plan
 
 7. Show the Run and the State 
 
-8. Show the API & Documentation
+8. Add Sentinel and Kick off a new plan
+
+9. Show the API & Documentation
+
+10. Done!
